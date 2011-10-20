@@ -1,2 +1,4 @@
 rspec --version 2.7.0
 radiant --version 0.9.1
+gem 'pg'
+gem 'heroku'
